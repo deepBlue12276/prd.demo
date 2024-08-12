@@ -1,1 +1,0 @@
-import{_ as e,o as _,c as s}from"./index-55273d89.js";const t="/prd.demo/assets/Frame 427319182-835b11b6.png";const c={},o={src:t,alt:""};function a(n,r){return _(),s("img",o)}const d=e(c,[["render",a],["__scopeId","data-v-9526a592"]]);export{d as default};
